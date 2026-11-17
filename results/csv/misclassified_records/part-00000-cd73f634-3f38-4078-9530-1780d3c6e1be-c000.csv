@@ -1,0 +1,25 @@
+model,name,subject_id,label,prediction,error_type,parkinsons_probability
+Logistic Regression,phon_R01_S13_2,phon_R01_S13,0.0,1.0,False Positive,0.8923242844529901
+Logistic Regression,phon_R01_S13_3,phon_R01_S13,0.0,1.0,False Positive,0.8659262737047185
+Logistic Regression,phon_R01_S13_5,phon_R01_S13,0.0,1.0,False Positive,0.8621151364876325
+Logistic Regression,phon_R01_S13_6,phon_R01_S13,0.0,1.0,False Positive,0.9652398959469816
+Logistic Regression,phon_R01_S50_5,phon_R01_S50,0.0,1.0,False Positive,0.6457399780694375
+Logistic Regression,phon_R01_S50_6,phon_R01_S50,0.0,1.0,False Positive,0.8434044806934269
+Logistic Regression,phon_R01_S13_1,phon_R01_S13,0.0,1.0,False Positive,0.8887258507620126
+Logistic Regression,phon_R01_S50_2,phon_R01_S50,0.0,1.0,False Positive,0.9525446036817352
+Logistic Regression,phon_R01_S13_4,phon_R01_S13,0.0,1.0,False Positive,0.971258583870784
+Logistic Regression,phon_R01_S50_1,phon_R01_S50,0.0,1.0,False Positive,0.7742881765164173
+Logistic Regression,phon_R01_S50_3,phon_R01_S50,0.0,1.0,False Positive,0.9098838420822327
+Logistic Regression,phon_R01_S50_4,phon_R01_S50,0.0,1.0,False Positive,0.9450041653406323
+Random Forest,phon_R01_S13_2,phon_R01_S13,0.0,1.0,False Positive,0.8908876800232588
+Random Forest,phon_R01_S13_3,phon_R01_S13,0.0,1.0,False Positive,0.9226280262361857
+Random Forest,phon_R01_S13_5,phon_R01_S13,0.0,1.0,False Positive,0.8904747005262561
+Random Forest,phon_R01_S13_6,phon_R01_S13,0.0,1.0,False Positive,0.9312683604539391
+Random Forest,phon_R01_S50_5,phon_R01_S50,0.0,1.0,False Positive,0.9034212776492008
+Random Forest,phon_R01_S50_6,phon_R01_S50,0.0,1.0,False Positive,0.6606345109082548
+Random Forest,phon_R01_S13_1,phon_R01_S13,0.0,1.0,False Positive,0.9404201500998794
+Random Forest,phon_R01_S50_2,phon_R01_S50,0.0,1.0,False Positive,0.9379657104258381
+Random Forest,phon_R01_S13_4,phon_R01_S13,0.0,1.0,False Positive,0.8966584852666447
+Random Forest,phon_R01_S50_1,phon_R01_S50,0.0,1.0,False Positive,0.715189181087511
+Random Forest,phon_R01_S50_3,phon_R01_S50,0.0,1.0,False Positive,0.8969256041197547
+Random Forest,phon_R01_S50_4,phon_R01_S50,0.0,1.0,False Positive,0.8335144210649248

@@ -1,0 +1,3 @@
+model,error_type,misclassified_records,affected_subjects
+Logistic Regression,False Positive,12,2
+Random Forest,False Positive,12,2
